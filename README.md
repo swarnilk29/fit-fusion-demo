@@ -46,7 +46,7 @@ Follow these steps to run the application locally.
 
 1. **Clone the Repository:**
     ```sh
-    
+    git clone https://github.com/swarnilk29/fit-fusion.git
     ```
 
 2. **Install Dependencies:**
