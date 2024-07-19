@@ -26,10 +26,12 @@ Health Challenge Tracker is a single-page application (SPA) developed using Angu
 
 ## Screenshots
 
-![](https://github.com/user-attachments/assets/29869083-7ea9-4844-88b0-73f10f2dd8de)
-![](https://github.com/user-attachments/assets/dddeac26-2263-4d43-b9c4-041ab0aa12aa)
-![](https://github.com/user-attachments/assets/a77a28a5-8679-487d-89fe-2ae4ecd7707f)
-![](https://github.com/user-attachments/assets/078f2294-bdf0-404a-ab82-c31338020f1a)
+
+![Screenshot (44)](https://github.com/user-attachments/assets/bfa5af3d-039d-40aa-84bf-d884f1ec61d4)
+![Screenshot (43)](https://github.com/user-attachments/assets/a72c067f-c113-45b1-ab6c-a95b7cd0cce9)
+![Screenshot (41)](https://github.com/user-attachments/assets/11ae0cd9-b01d-4a3d-9ae0-06dbac1fd442)
+![Screenshot (40)](https://github.com/user-attachments/assets/fe546753-e86c-42cb-b9a1-8af8cb6e1329)
+![Screenshot (45)](https://github.com/user-attachments/assets/4ea2e443-86e5-4155-82ee-d0932fea42fa)
 
 
 ## Getting Started
@@ -45,8 +47,7 @@ Follow these steps to run the application locally.
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/your-username/Health-Challenge-Tracker.git
-    cd Health-Challenge-Tracker
+    
     ```
 
 2. **Install Dependencies:**
