@@ -1,4 +1,4 @@
-# Health Challenge Tracker
+# Fit Fusion - Health Challenge Tracker
 
 ## Overview
 
